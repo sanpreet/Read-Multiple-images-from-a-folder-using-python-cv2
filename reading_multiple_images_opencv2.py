@@ -3,6 +3,7 @@ import cv2
 #globbing utility.
 import glob
 #select the path
+#I have provided my path from my local computer, please change it accordingly
 path = "A:\MY_company\Sanpreet_Singh\Client Work\OpenCV-Sanjeev\images\*.*"
 for file in glob.glob(path):
     print(file)
