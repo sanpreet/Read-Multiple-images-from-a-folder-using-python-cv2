@@ -39,5 +39,7 @@ cv2.destroyAllWindows()
 To run this code, please download images and python file in a directory and run the following command
 ```
 python reading_multiple_images_opencv2.py
-```
+```   
+
+Happy Coding!!!
 
