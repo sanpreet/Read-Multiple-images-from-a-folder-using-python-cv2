@@ -17,27 +17,3 @@ for file in glob.glob(path):
     k = cv2.waitKey(1000)
     #destroy the window
     cv2.destroyAllWindows()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
