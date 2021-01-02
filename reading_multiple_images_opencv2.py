@@ -4,7 +4,7 @@ import cv2
 import glob
 #select the path
 #I have provided my path from my local computer, please change it accordingly
-path = "A:\images\\input_images\*.*"
+path = "A:\images\input_images\*.*"
 for file in glob.glob(path):
     image_read = cv2.imread(file)
     # conversion numpy array into rgb image to show
